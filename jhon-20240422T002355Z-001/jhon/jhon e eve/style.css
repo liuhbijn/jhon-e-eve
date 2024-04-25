@@ -1,0 +1,107 @@
+p{
+    text-align: center;
+}
+body {
+    background-color: purple;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+.recipes {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.recipe {
+    flex: 1;
+}
+
+.recipe img {
+    width: 200%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.recipe-details {
+    flex: 2;
+}
+
+.recipe-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe-details p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.video {
+    margin-top: 20px;
+}body {
+    background-image: url(plano\ de\ fundo\ 01.jpg); 
+    background-size: cover; 
+    background-position: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+.recipes {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.recipe {
+    flex: 1;
+}
+
+.recipe img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.recipe-details {
+    flex: 2;
+}
+
+.recipe-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.recipe-details p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.video {
+    margin-top: 20px;
+}
+
